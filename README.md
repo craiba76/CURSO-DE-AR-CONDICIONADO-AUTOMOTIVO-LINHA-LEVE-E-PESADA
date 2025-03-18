@@ -15,19 +15,22 @@
             width: 80%;
             margin: 0 auto;
             padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         h1, h2 {
             text-align: center;
-            color: #333;
+            color: #ff6347;
         }
         p {
             font-size: 1.1em;
             line-height: 1.6;
-            color: #555;
+            color: #333;
         }
         .cta-button {
             display: inline-block;
-            background-color: #FF6347;
+            background-color: #FF4500;
             color: #fff;
             padding: 15px 30px;
             font-size: 1.2em;
@@ -35,9 +38,10 @@
             text-align: center;
             border-radius: 5px;
             margin-top: 20px;
+            transition: background-color 0.3s ease;
         }
         .cta-button:hover {
-            background-color: #FF4500;
+            background-color: #FF6347;
         }
         .section {
             margin-bottom: 40px;
@@ -50,6 +54,15 @@
             background-color: #f8f8f8;
             padding: 20px;
             border-radius: 5px;
+        }
+        .faq-section {
+            background-color: #f8f8f8;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .faq-section p {
+            font-size: 1em;
+            color: #555;
         }
     </style>
 </head>
@@ -101,10 +114,10 @@
         <div class="section">
             <h2>Não Deixe Esta Oportunidade Passar!</h2>
             <p><strong>As vagas são limitadas</strong>, e os descontos são válidos até o final do mês. **Garanta sua vaga agora** e comece a aprender imediatamente!</p>
-            <a href="[SEU LINK DE AFILIADO]" class="cta-button">Quero Me Inscrever Agora!</a>
+            <a href="https://go.hotmart.com/L98730372L" class="cta-button">Quero Me Inscrever Agora!</a>
         </div>
 
-        <div class="section">
+        <div class="faq-section">
             <h2>Perguntas Frequentes:</h2>
             <p><strong>1. Não tenho experiência, posso fazer o curso?</strong> <br> Sim! O curso é desenvolvido para iniciantes e ensina tudo desde o básico até as técnicas mais avançadas.</p>
             <p><strong>2. Como acesso as aulas?</strong> <br> Após a inscrição, você terá acesso imediato às aulas pelo nosso portal online, de qualquer dispositivo.</p>
