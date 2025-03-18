@@ -103,7 +103,6 @@
         <div class="section">
             <h2>Por Que Esse Curso Vale a Pena?</h2>
             <p>Você está prestes a adquirir uma habilidade extremamente valorizada no mercado automotivo. Imagine o valor de poder realizar manutenção e instalação de ar-condicionados, um serviço que todos os motoristas precisam, mas poucos sabem fazer.</p>
-            <p><strong>Preço Original:</strong> ~R$1.200,00 <br> <strong>Hoje Só por:</strong> R$499,00!</p>
         </div>
 
         <div class="section">
@@ -128,3 +127,4 @@
 
 </body>
 </html>
+
